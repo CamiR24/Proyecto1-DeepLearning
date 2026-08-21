@@ -1,0 +1,4 @@
+arquitectura,hidden,RMSE_USD,best_epoch
+deep,"[256, 128, 64, 32]",25836.560546875,20
+medium,"[128, 64]",26299.31640625,8
+shallow,[64],27690.482421875,21
